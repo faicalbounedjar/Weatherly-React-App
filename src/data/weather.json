@@ -1,0 +1,30 @@
+{
+  "coord": { "lon": 3.0602, "lat": 36.7754 },
+  "weather": [
+    { "id": 800, "main": "Clear", "description": "clear sky", "icon": "01n" }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 291.99,
+    "feels_like": 291.81,
+    "temp_min": 291.99,
+    "temp_max": 291.99,
+    "pressure": 1022,
+    "humidity": 72
+  },
+  "visibility": 10000,
+  "wind": { "speed": 1.03, "deg": 0 },
+  "clouds": { "all": 0 },
+  "dt": 1696202621,
+  "sys": {
+    "type": 1,
+    "id": 1060,
+    "country": "DZ",
+    "sunrise": 1696225400,
+    "sunset": 1696267859
+  },
+  "timezone": 3600,
+  "id": 2491195,
+  "name": "L’Agha",
+  "cod": 200
+}
