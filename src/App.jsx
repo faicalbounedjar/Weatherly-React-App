@@ -4,7 +4,7 @@ import React, { useState } from "react";
 function App() {
   // fetch data data.coord.lon + lat
   // const url =
-  //   "http://api.openweathermap.org/geo/1.0/direct?q=algeria&appid=521c6049f18e4cad09713edd93bbae71";
+  /
   const [data, setData] = useState({});
   const [location, setlocation] = useState("");
   const [lat, setLat] = useState(36.4702);
